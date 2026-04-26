@@ -81,17 +81,18 @@
                 </ul>
 
                 <!-- Nilai Gizi -->
-                <h3 class="font-semibold text-lg mb-2">Nilai Gizi per Sajian</h3>
+                {{-- <h3 class="font-semibold text-lg mb-2">Nilai Gizi per Sajian</h3>
                 <table class="w-full text-sm border mb-6">
                     <tbody>
                         <tr><td class="p-2">Energi (kkal)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_energy_kcal ?? '-'"></td></tr>
                         <tr><td class="p-2">Protein (g)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_protein_g ?? '-'"></td></tr>
                         <tr><td class="p-2">Lemak (g)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_fat_g ?? '-'"></td></tr>
+                        <tr><td class="p-2">Lemak Jenuh (g)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_saturated_fat_g ?? '-'"></td></tr>
                         <tr><td class="p-2">Karbohidrat (g)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_carbs_g ?? '-'"></td></tr>
                         <tr><td class="p-2">Gula (g)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_sugar_g ?? '-'"></td></tr>
                         <tr><td class="p-2">Natrium (mg)</td><td class="p-2 text-right" x-text="product.nutrition_summary?.per_serving_sodium_mg ?? '-'"></td></tr>
                     </tbody>
-                </table>
+                </table> --}}
 
                 <!-- Label Gizi -->
                 {{-- Label Informasi Nilai Gizi --}}
@@ -129,6 +130,11 @@
                                 <td class="pl-2">g</td>
                             </tr>
                             <tr>
+                                <td class="py-1">Lemak Jenuh Total</td>
+                                <td class="text-right" x-text="product.nutrition_summary?.per_serving_saturated_fat_g ?? '-'"></td>
+                                <td class="pl-2">g</td>
+                            </tr>
+                            <tr>
                                 <td class="py-1">Karbohidrat Total</td>
                                 <td class="text-right" x-text="product.nutrition_summary?.per_serving_carbs_g ?? '-'"></td>
                                 <td class="pl-2">g</td>
@@ -150,6 +156,15 @@
                                     <div class="mt-6">
                                         <h3 class="text-lg font-semibold mb-2">FOPNL Traffic Light (Front-of-Pack Label)</h3>
                                         <div class="flex gap-4 justify-center text-center">
+                                            <!-- ENERGI -->
+                                            <div class="flex flex-col items-center">
+                                                <div :class="getTrafficColor(product.nutrition_summary?.per_serving_energy_kcal, 'energy')"
+                                                    class="w-16 h-16 rounded-full flex items-center justify-center text-white font-bold text-sm">
+                                                    <span x-text="getTrafficLabel(product.nutrition_summary?.per_serving_energy_kcal, 'energy')"></span>
+                                                </div>
+                                                <span class="mt-1 text-xs">Energi</span>
+                                                {{-- <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_energy_kcal ?? '-') + ' kkal'"></span> --}}
+                                            </div>
                                             <!-- GULA -->
                                             <div class="flex flex-col items-center">
                                                 <div :class="getTrafficColor(product.nutrition_summary?.per_serving_sugar_g, 'sugar')"
@@ -157,7 +172,7 @@
                                                     <span x-text="getTrafficLabel(product.nutrition_summary?.per_serving_sugar_g, 'sugar')"></span>
                                                 </div>
                                                 <span class="mt-1 text-xs">Gula</span>
-                                                <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_sugar_g ?? '-') + ' g'"></span>
+                                                {{-- <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_sugar_g ?? '-') + ' g'"></span> --}}
                                             </div>
 
                                             <!-- LEMAK -->
@@ -167,7 +182,17 @@
                                                     <span x-text="getTrafficLabel(product.nutrition_summary?.per_serving_fat_g, 'fat')"></span>
                                                 </div>
                                                 <span class="mt-1 text-xs">Lemak</span>
-                                                <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_fat_g ?? '-') + ' g'"></span>
+                                                {{-- <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_fat_g ?? '-') + ' g'"></span> --}}
+                                            </div>
+
+                                            <!-- LEMAK JENUH -->
+                                            <div class="flex flex-col items-center">
+                                                <div :class="getTrafficColor(product.nutrition_summary?.per_serving_saturated_fat_g, 'saturated_fat')"
+                                                    class="w-16 h-16 rounded-full flex items-center justify-center text-white font-bold text-sm">
+                                                    <span x-text="getTrafficLabel(product.nutrition_summary?.per_serving_saturated_fat_g, 'saturated_fat')"></span>
+                                                </div>
+                                                <span class="mt-1 text-xs">Lemak Jenuh</span>
+                                                {{-- <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_saturated_fat_g ?? '-') + ' g'"></span> --}}
                                             </div>
 
                                             <!-- NATRIUM -->
@@ -177,7 +202,7 @@
                                                     <span x-text="getTrafficLabel(product.nutrition_summary?.per_serving_sodium_mg, 'sodium')"></span>
                                                 </div>
                                                 <span class="mt-1 text-xs">Natrium</span>
-                                                <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_sodium_mg ?? '-') + ' mg'"></span>
+                                                {{-- <span class="text-[11px]" x-text="(product.nutrition_summary?.per_serving_sodium_mg ?? '-') + ' mg'"></span> --}}
                                             </div>
                                         </div>
                                     </div>
@@ -263,6 +288,10 @@ function modalHandler() {
 
             value = parseFloat(value);
 
+            if (type === 'energy') {
+                return 'bg-blue-400';
+            }
+
             if (type === 'sugar') {
                 if (value <= 5) return 'bg-green-500';
                 if (value <= 22.5) return 'bg-yellow-400 text-black';
@@ -272,6 +301,12 @@ function modalHandler() {
             if (type === 'fat') {
                 if (value <= 3) return 'bg-green-500';
                 if (value <= 17.5) return 'bg-yellow-400 text-black';
+                return 'bg-red-500';
+            }
+
+            if (type === 'saturated_fat') {
+                if (value <= 3) return 'bg-green-500';
+                if (value <= 5) return 'bg-yellow-400 text-black';
                 return 'bg-red-500';
             }
 
@@ -287,20 +322,28 @@ function modalHandler() {
             if (!value) return '-';
             value = parseFloat(value);
 
+            if (type === 'energy') {
+                return value + ' kkal';
+            }
             if (type === 'sugar') {
-                if (value <= 5) return 'Rendah';
-                if (value <= 22.5) return 'Sedang';
-                return 'Tinggi';
+                // if (value <= 5) return 'Rendah';
+                // if (value <= 22.5) return 'Sedang';
+                return value + ' g';
             }
             if (type === 'fat') {
-                if (value <= 3) return 'Rendah';
-                if (value <= 17.5) return 'Sedang';
-                return 'Tinggi';
+                // if (value <= 3) return 'Rendah';
+                // if (value <= 17.5) return 'Sedang';
+                return value + ' g';
+            }
+            if (type === 'saturated_fat') {
+                // if (value <= 3) return 'Rendah';
+                // if (value <= 5) return 'Sedang';
+                return value + ' g';
             }
             if (type === 'sodium') {
-                if (value <= 120) return 'Rendah';
-                if (value <= 600) return 'Sedang';
-                return 'Tinggi';
+                // if (value <= 120) return 'Rendah';
+                // if (value <= 600) return 'Sedang';
+                return value + ' g';
             }
         }
     };

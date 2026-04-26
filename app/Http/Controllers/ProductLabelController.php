@@ -32,6 +32,7 @@ class ProductLabelController extends Controller
             $summary->per_serving_energy_kcal ?? 0,
             $summary->per_serving_sugar_g ?? 0,
             $summary->per_serving_fat_g ?? 0,
+            $summary->per_serving_saturated_fat_g ?? 0,
             $summary->per_serving_sodium_mg ?? 0,
             $summary->per_serving_protein_g ?? 0
         );
@@ -61,6 +62,7 @@ class ProductLabelController extends Controller
             $summary->per_serving_energy_kcal ?? 0,
             $summary->per_serving_sugar_g ?? 0,
             $summary->per_serving_fat_g ?? 0,
+            $summary->per_serving_saturated_fat_g ?? 0,
             $summary->per_serving_sodium_mg ?? 0,
             $summary->per_serving_protein_g ?? 0
         );

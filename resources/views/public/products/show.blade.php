@@ -41,14 +41,18 @@
             @php
                 $summary = $product->nutritionSummary;
                 $lights = [
+                    ['label' => 'Energi', 'value' => $summary->per_serving_energy_kcal, 'unit' => 'kkal'],
                     ['label' => 'Gula', 'value' => $summary->per_serving_sugar_g, 'unit' => 'g'],
                     ['label' => 'Lemak', 'value' => $summary->per_serving_fat_g, 'unit' => 'g'],
+                    ['label' => 'Lemak Jenuh', 'value' => $summary->per_serving_saturated_fat_g, 'unit' => 'g'],
                     ['label' => 'Natrium', 'value' => $summary->per_serving_sodium_mg, 'unit' => 'mg']
                 ];
 
                 function getLightColor($label, $value) {
+                    if ($label === 'Energi') return $value <= 5 ? '#3B82F6' : ($value <= 10 ? '#3B82F6' : '#3B82F6');
                     if ($label === 'Gula') return $value <= 5 ? '#22c55e' : ($value <= 10 ? '#eab308' : '#ef4444');
                     if ($label === 'Lemak') return $value <= 3 ? '#22c55e' : ($value <= 17 ? '#eab308' : '#ef4444');
+                    if ($label === 'Lemak Jenuh') return $value <= 3 ? '#22c55e' : ($value <= 17 ? '#eab308' : '#ef4444');
                     if ($label === 'Natrium') return $value <= 120 ? '#22c55e' : ($value <= 600 ? '#eab308' : '#ef4444');
                     return '#9ca3af';
                 }
@@ -59,8 +63,8 @@
                     @php $color = getLightColor($light['label'], $light['value']); @endphp
                     <div class="flex flex-col items-center">
                         <div class="w-20 h-20 rounded-full flex items-center justify-center text-white font-bold text-lg shadow"
-                             style="background-color: {{ $color }}">
-                            {{ $light['value'] }}{{ $light['unit'] }}
+                             style="background-color: {{ $color }}; padding: 5px">
+                            <small>{{ $light['value'] }}{{ $light['unit'] }}</small>
                         </div>
                         <span class="text-sm mt-2 font-semibold text-gray-800">{{ $light['label'] }}</span>
                     </div>
@@ -83,6 +87,7 @@
                             <tr class="border-b"><td class="p-2">Energi Total</td><td class="p-2 text-right">{{ $summary->per_serving_energy_kcal }} kkal</td></tr>
                             <tr class="border-b"><td class="p-2">Protein</td><td class="p-2 text-right">{{ $summary->per_serving_protein_g }} g</td></tr>
                             <tr class="border-b"><td class="p-2">Lemak Total</td><td class="p-2 text-right">{{ $summary->per_serving_fat_g }} g</td></tr>
+                            <tr class="border-b"><td class="p-2">Lemak Jenuh Total</td><td class="p-2 text-right">{{ $summary->per_serving_saturated_fat_g }} g</td></tr>
                             <tr class="border-b"><td class="p-2">Karbohidrat</td><td class="p-2 text-right">{{ $summary->per_serving_carbs_g }} g</td></tr>
                             <tr class="border-b"><td class="p-2">Gula</td><td class="p-2 text-right">{{ $summary->per_serving_sugar_g }} g</td></tr>
                             <tr><td class="p-2">Natrium</td><td class="p-2 text-right">{{ $summary->per_serving_sodium_mg }} mg</td></tr>

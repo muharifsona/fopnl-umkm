@@ -24,6 +24,7 @@ class NutritionCalculator
             'energy_kcal' => 0,
             'protein_g' => 0,
             'fat_g' => 0,
+            'saturated_fat_g' => 0,
             'carbs_g' => 0,
             'sugar_g' => 0,
             'sodium_mg' => 0,
@@ -35,25 +36,27 @@ class NutritionCalculator
 
             $factor = ($ing->pivot->quantity_g ?? 0) / 100;
 
-            $totals['energy_kcal'] += ($ing->nutrition->per_100g_energy_kcal ?? 0) * $factor;
-            $totals['protein_g']   += ($ing->nutrition->per_100g_protein_g ?? 0) * $factor;
-            $totals['fat_g']       += ($ing->nutrition->per_100g_fat_g ?? 0) * $factor;
-            $totals['carbs_g']     += ($ing->nutrition->per_100g_carbs_g ?? 0) * $factor;
-            $totals['sugar_g']     += ($ing->nutrition->per_100g_sugar_g ?? 0) * $factor;
-            $totals['sodium_mg']   += ($ing->nutrition->sodium_mg ?? 0) * $factor;
+            $totals['energy_kcal']      += ($ing->nutrition->per_100g_energy_kcal ?? 0) * $factor;
+            $totals['protein_g']        += ($ing->nutrition->per_100g_protein_g ?? 0) * $factor;
+            $totals['fat_g']            += ($ing->nutrition->per_100g_fat_g ?? 0) * $factor;
+            $totals['saturated_fat_g']  += ($ing->nutrition->per_100g_saturated_fat_g ?? 0) * $factor;
+            $totals['carbs_g']          += ($ing->nutrition->per_100g_carbs_g ?? 0) * $factor;
+            $totals['sugar_g']          += ($ing->nutrition->per_100g_sugar_g ?? 0) * $factor;
+            $totals['sodium_mg']        += ($ing->nutrition->sodium_mg ?? 0) * $factor;
         }
 
         // Simpan ke tabel nutrition_summaries
         NutritionSummary::updateOrCreate(
             ['product_id' => $product->id],
             [
-                'per_serving_energy_kcal' => $totals['energy_kcal'],
-                'per_serving_protein_g'   => $totals['protein_g'],
-                'per_serving_fat_g'       => $totals['fat_g'],
-                'per_serving_carbs_g'     => $totals['carbs_g'],
-                'per_serving_sugar_g'     => $totals['sugar_g'],
-                'per_serving_sodium_mg'   => $totals['sodium_mg'],
-                'calculated_at'           => Carbon::now(),
+                'per_serving_energy_kcal'       => $totals['energy_kcal'],
+                'per_serving_protein_g'         => $totals['protein_g'],
+                'per_serving_fat_g'             => $totals['fat_g'],
+                'per_serving_saturated_fat_g'   => $totals['saturated_fat_g'],
+                'per_serving_carbs_g'           => $totals['carbs_g'],
+                'per_serving_sugar_g'           => $totals['sugar_g'],
+                'per_serving_sodium_mg'         => $totals['sodium_mg'],
+                'calculated_at'                 => Carbon::now(),
             ]
         );
 

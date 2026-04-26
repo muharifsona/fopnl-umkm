@@ -54,6 +54,7 @@
                 <tr><td class="border px-2 py-1">Energi (kkal)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_energy_kcal ?? '-' }}</td></tr>
                 <tr><td class="border px-2 py-1">Protein (g)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_protein_g ?? '-' }}</td></tr>
                 <tr><td class="border px-2 py-1">Lemak (g)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_fat_g ?? '-' }}</td></tr>
+                <tr><td class="border px-2 py-1">Lemak Jenuh (g)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_saturated_fat_g ?? '-' }}</td></tr>
                 <tr><td class="border px-2 py-1">Karbohidrat (g)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_carbs_g ?? '-' }}</td></tr>
                 <tr><td class="border px-2 py-1">Gula (g)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_sugar_g ?? '-' }}</td></tr>
                 <tr><td class="border px-2 py-1">Natrium (mg)</td><td class="border px-2 py-1 text-right">{{ $ns->per_serving_sodium_mg ?? '-' }}</td></tr>

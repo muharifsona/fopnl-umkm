@@ -7,13 +7,14 @@ class NutriScoreHelper
     /**
      * Hitung Nutri-Score berdasarkan data gizi per 100g
      */
-    public static function calculate($energy_kcal, $sugar_g, $fat_g, $sodium_mg, $protein_g)
+    public static function calculate($energy_kcal, $sugar_g, $fat_g, $saturated_fat_g, $sodium_mg, $protein_g)
     {
         // Skor negatif (semakin besar = kurang sehat)
         $neg = 0;
         $neg += ($energy_kcal > 335) ? 2 : ($energy_kcal > 670 ? 4 : 0);
         $neg += ($sugar_g > 10) ? 2 : ($sugar_g > 22.5 ? 4 : 0);
         $neg += ($fat_g > 3) ? 2 : ($fat_g > 17.5 ? 4 : 0);
+        $neg += ($saturated_fat_g > 3) ? 2 : ($saturated_fat_g > 5 ? 4 : 0);
         $neg += ($sodium_mg > 300) ? 2 : ($sodium_mg > 600 ? 4 : 0);
 
         // Skor positif (semakin besar = lebih sehat)

@@ -110,7 +110,7 @@
         font-size: 10px;
         font-weight: bold;
         color: #fff;
-        text-transform: uppercase;
+        /* text-transform: uppercase; */
     }
 
     .circle span {
@@ -124,6 +124,7 @@
     .circle.green { background-color: #2ecc71; }
     .circle.yellow { background-color: #f1c40f; color: #111; }
     .circle.red { background-color: #e74c3c; }
+    .circle.blue { background-color: #0000ff; color: #ffffff; }
 
 
     /* Nilai energi di bawah */
@@ -184,6 +185,7 @@
                 // summary exists?
                 $s = $summary ?? null;
                 function level($value, $low, $med) {
+                    if ($med == $low) return 'blue';
                     if ($value <= $low) return 'green';
                     if ($value <= $med) return 'yellow';
                     return 'red';
@@ -191,14 +193,16 @@
                 // defaults
                 $energy = $s->per_serving_energy_kcal ?? 0;
                 $fat = $s->per_serving_fat_g ?? 0;
+                $saturated_fat = $s->per_serving_saturated_fat_g ?? 0;
                 $sugar = $s->per_serving_sugar_g ?? 0;
                 $sodium = $s->per_serving_sodium_mg ?? 0;
 
                 // thresholds (example, tweak to align regulation)
-                $energyLevel = level($energy, 60, 300); // per serving
-                $fatLevel    = level($fat, 3, 17);
-                $sugarLevel  = level($sugar, 5, 15);
-                $sodiumLevel = level($sodium, 120, 400);
+                $energyLevel        = level($energy, 99999, 99999); // per serving
+                $fatLevel           = level($fat, 3, 17);
+                $saturatedFatLevel  = level($saturated_fat, 3, 5);
+                $sugarLevel         = level($sugar, 5, 15);
+                $sodiumLevel        = level($sodium, 120, 400);
             @endphp
 
             {{-- FOPNL traffic light --}}
@@ -206,9 +210,11 @@
                 <div class="title">FOPNL - Traffic Light</div>
 
                 <div class="traffic-circles">
-                    <div class="circle {{ $sugarLevel }}"><span>Sugar</span></div>
-                    <div class="circle {{ $fatLevel }}"><span>Fat</span></div>
-                    <div class="circle {{ $sodiumLevel }}"><span>Sodium</span></div>
+                    <div class="circle {{ $energyLevel }}"><span>{{ $energy }}<br>kkal</span></div>
+                    <div class="circle {{ $sugarLevel }}"><span>{{ $fat }}<br>g</span></div><br>
+                    <div class="circle {{ $fatLevel }}"><span>{{ $saturated_fat }}<br>g</span></div>
+                    <div class="circle {{ $saturatedFatLevel }}"><span>{{ $sugar }}<br>g</span></div>
+                    <div class="circle {{ $sodiumLevel }}"><span>{{ $sodium }}<br>mg</span></div>
                 </div>
 
                 <div class="energy">
@@ -245,6 +251,10 @@
                 <tr>
                     <td>Fat</td>
                     <td style="text-align:right;">{{ number_format($s->per_serving_fat_g ?? 0, 1) }} g</td>
+                </tr>
+                <tr>
+                    <td>Saturated Fat</td>
+                    <td style="text-align:right;">{{ number_format($s->per_serving_saturated_fat_g ?? 0, 1) }} g</td>
                 </tr>
                 <tr>
                     <td>Carbohydrate</td>

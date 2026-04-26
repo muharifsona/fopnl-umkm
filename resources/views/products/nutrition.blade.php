@@ -10,6 +10,7 @@
         <div>Energi</div> <div class="text-right font-medium">{{ number_format($nutrition['energy_kcal'], 1) }} kcal</div>
         <div>Protein</div> <div class="text-right font-medium">{{ number_format($nutrition['protein_g'], 1) }} g</div>
         <div>Lemak Total</div> <div class="text-right font-medium">{{ number_format($nutrition['fat_g'], 1) }} g</div>
+        <div>Lemak Jenuh Total</div> <div class="text-right font-medium">{{ number_format($nutrition['saturated_fat_g'], 1) }} g</div>
         <div>Karbohidrat</div> <div class="text-right font-medium">{{ number_format($nutrition['carbs_g'], 1) }} g</div>
         <div>Gula Total</div> <div class="text-right font-medium">{{ number_format($nutrition['sugar_g'], 1) }} g</div>
         <div>Natrium</div> <div class="text-right font-medium">{{ number_format($nutrition['sodium_mg'], 1) }} mg</div>
@@ -23,10 +24,11 @@
                 <div class="flex flex-col items-center">
                     <div class="rounded-full w-16 h-16 flex items-center justify-center
                         {{ $val['color'] === 'red' ? 'bg-red-500 text-white' :
-                           ($val['color'] === 'yellow' ? 'bg-yellow-400 text-white' : 'bg-green-500 text-white') }}">
-                        {{ ucfirst($val['label']) }}
+                           ($val['color'] === 'yellow' ? 'bg-yellow-400 text-white' :
+                           ($val['color'] === 'green' ? 'bg-green-500 text-white' : 'bg-blue-400 text-white')) }}">
+                        <small style="padding: 10px;">{{ ucfirst($val['label']) }}</small>
                     </div>
-                    <span class="text-sm text-gray-600 mt-2 capitalize">{{ $key }}</span>
+                    <span class="text-sm text-gray-600 mt-2 capitalize">{{ ucwords(str_replace("_", " ", $key)) }}</span>
                 </div>
             @endforeach
         </div>

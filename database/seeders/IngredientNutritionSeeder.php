@@ -71,6 +71,7 @@ class IngredientNutritionSeeder extends Seeder
                     'per_100g_energy_kcal' => $n['energy'],
                     'per_100g_protein_g' => $n['protein'],
                     'per_100g_fat_g' => $n['fat'],
+                    'per_100g_saturated_fat_g' => $n['saturated_fat'],
                     'per_100g_carbs_g' => $n['carbs'],
                     'per_100g_sugar_g' => $n['sugar'],
                     'sodium_mg' => $n['sodium'],

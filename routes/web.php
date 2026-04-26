@@ -89,6 +89,7 @@ Route::middleware(['auth', 'admin'])->group(function () {
     Route::post('/admin/ingredients/import', [IngredientController::class, 'import'])
         ->name('admin.ingredients.import')
         ->middleware(['auth', 'admin']);
+    Route::post('/admin/ingredients/import-fatsecret', [IngredientController::class, 'importFatSecret'])->name('admin.ingredients.importFatSecret');
 });
 
 Route::middleware(['auth', 'regulator'])->group(function () {

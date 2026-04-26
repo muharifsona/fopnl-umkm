@@ -29,6 +29,7 @@ class IngredientsImport implements ToCollection, WithHeadingRow
                     'per_100g_energy_kcal' => $row['per_100g_energy_kcal'] ?? 0,
                     'per_100g_protein_g' => $row['per_100g_protein_g'] ?? 0,
                     'per_100g_fat_g' => $row['per_100g_fat_g'] ?? 0,
+                    'per_100g_saturated_fat_g' => $row['per_100g_saturated_fat_g'] ?? 0,
                     'per_100g_carbs_g' => $row['per_100g_carbs_g'] ?? 0,
                     'per_100g_sugar_g' => $row['per_100g_sugar_g'] ?? 0,
                     'sodium_mg' => $row['sodium_mg'] ?? 0,

@@ -11,8 +11,13 @@ class NutritionSummary extends Model
 
     protected $fillable = [
         'product_id',
-        'per_serving_energy_kcal','per_serving_protein_g','per_serving_fat_g',
-        'per_serving_carbs_g','per_serving_sugar_g','per_serving_sodium_mg',
+        'per_serving_energy_kcal',
+        'per_serving_protein_g',
+        'per_serving_fat_g',
+        'per_serving_saturated_fat_g',
+        'per_serving_carbs_g',
+        'per_serving_sugar_g',
+        'per_serving_sodium_mg',
         'calculated_at'
     ];
     public function product() { return $this->belongsTo(Product::class); }

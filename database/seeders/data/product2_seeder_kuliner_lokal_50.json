@@ -1,0 +1,2712 @@
+[
+    {
+        "name": "Pecel Madiun",
+        "description": "Occaecati perferendis dolor rerum incidunt similique.",
+        "net_weight": 300,
+        "serving_size": "40 gram",
+        "ingredients": [
+            {
+                "name": "Bawang Putih",
+                "quantity": 63,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 31,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 84,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Kue Cubit",
+        "description": "Magni sit voluptas vel cumque sunt incidunt.",
+        "net_weight": 300,
+        "serving_size": "34 gram",
+        "ingredients": [
+            {
+                "name": "Tempe",
+                "quantity": 84,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 25,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 99,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 23,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Rendang Padang",
+        "description": "Aliquid repellendus maiores libero optio eaque nulla rerum labore vel saepe.",
+        "net_weight": 300,
+        "serving_size": "28 gram",
+        "ingredients": [
+            {
+                "name": "Santan Kental",
+                "quantity": 62,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 71,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Tempe",
+                "quantity": 88,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 76,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 70,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 16,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    },
+    {
+        "name": "Lemper Ayam",
+        "description": "Quae itaque id consequatur perspiciatis illo quae minus doloribus veritatis.",
+        "net_weight": 250,
+        "serving_size": "49 gram",
+        "ingredients": [
+            {
+                "name": "Tahu",
+                "quantity": 81,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 10,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 62,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Tempe",
+                "quantity": 21,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 77,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 54,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            }
+        ]
+    },
+    {
+        "name": "Kue Lapis",
+        "description": "Quas provident fuga quod assumenda nihil asperiores et.",
+        "net_weight": 300,
+        "serving_size": "33 gram",
+        "ingredients": [
+            {
+                "name": "Bawang Putih",
+                "quantity": 93,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Terasi",
+                "quantity": 55,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 83,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 37,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Ikan Bakar Jimbaran",
+        "description": "Qui rem illo alias harum quaerat.",
+        "net_weight": 200,
+        "serving_size": "40 gram",
+        "ingredients": [
+            {
+                "name": "Lengkuas",
+                "quantity": 63,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 71,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Terasi",
+                "quantity": 28,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            }
+        ]
+    },
+    {
+        "name": "Tahu Gejrot",
+        "description": "Deleniti at quam distinctio laudantium amet molestias ab consequatur ab eligendi et.",
+        "net_weight": 150,
+        "serving_size": "38 gram",
+        "ingredients": [
+            {
+                "name": "Terasi",
+                "quantity": 41,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 41,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 73,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    },
+    {
+        "name": "Sambal Ikan Roa",
+        "description": "Et asperiores quasi dolorum doloribus modi suscipit.",
+        "net_weight": 300,
+        "serving_size": "28 gram",
+        "ingredients": [
+            {
+                "name": "Daging Sapi",
+                "quantity": 49,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 68,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Tahu",
+                "quantity": 52,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 54,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 39,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Serabi Bandung",
+        "description": "Ad architecto veritatis quia voluptates aspernatur aut quas quae aperiam blanditiis minus nesciunt.",
+        "net_weight": 250,
+        "serving_size": "47 gram",
+        "ingredients": [
+            {
+                "name": "Daging Sapi",
+                "quantity": 51,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 51,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Terasi",
+                "quantity": 87,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 100,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Tempe",
+                "quantity": 50,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 20,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            }
+        ]
+    },
+    {
+        "name": "Nasi Campur Bali",
+        "description": "Et nihil corporis quibusdam numquam rerum laborum officia.",
+        "net_weight": 250,
+        "serving_size": "37 gram",
+        "ingredients": [
+            {
+                "name": "Daging Ayam",
+                "quantity": 85,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 74,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 85,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Bakso Malang",
+        "description": "Eum inventore quae officiis nam numquam asperiores facilis reprehenderit.",
+        "net_weight": 300,
+        "serving_size": "27 gram",
+        "ingredients": [
+            {
+                "name": "Kecap Manis",
+                "quantity": 87,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 44,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 66,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 62,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Tempe",
+                "quantity": 74,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 87,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Martabak Manis",
+        "description": "Eveniet provident laboriosam fugit aliquam quibusdam et ratione voluptatibus ipsum.",
+        "net_weight": 300,
+        "serving_size": "39 gram",
+        "ingredients": [
+            {
+                "name": "Santan Kental",
+                "quantity": 62,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 79,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 31,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Bubur Ayam Cianjur",
+        "description": "Reprehenderit dolorem at deserunt earum iure veniam neque modi consequatur.",
+        "net_weight": 250,
+        "serving_size": "35 gram",
+        "ingredients": [
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 95,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 95,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 86,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 73,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 38,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    },
+    {
+        "name": "Bebek Goreng Madura",
+        "description": "Ducimus adipisci quam quasi porro quae aperiam esse eveniet.",
+        "net_weight": 250,
+        "serving_size": "46 gram",
+        "ingredients": [
+            {
+                "name": "Daging Sapi",
+                "quantity": 26,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 58,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Tahu",
+                "quantity": 34,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 27,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 31,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 98,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            }
+        ]
+    },
+    {
+        "name": "Mie Aceh",
+        "description": "Esse eos sapiente velit beatae sequi.",
+        "net_weight": 250,
+        "serving_size": "41 gram",
+        "ingredients": [
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 95,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Tempe",
+                "quantity": 90,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 52,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 25,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Tahu",
+                "quantity": 38,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            }
+        ]
+    },
+    {
+        "name": "Asinan Bogor",
+        "description": "Quibusdam consectetur suscipit labore beatae nobis.",
+        "net_weight": 150,
+        "serving_size": "27 gram",
+        "ingredients": [
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 95,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 27,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Terasi",
+                "quantity": 70,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            }
+        ]
+    },
+    {
+        "name": "Nasi Liwet Sunda",
+        "description": "Quibusdam enim eius cum amet reiciendis omnis nam.",
+        "net_weight": 250,
+        "serving_size": "29 gram",
+        "ingredients": [
+            {
+                "name": "Beras Putih",
+                "quantity": 93,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 53,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 15,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 13,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 73,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            }
+        ]
+    },
+    {
+        "name": "Klepon",
+        "description": "Dolorem magnam possimus sapiente consequatur est unde iusto numquam enim tenetur.",
+        "net_weight": 200,
+        "serving_size": "41 gram",
+        "ingredients": [
+            {
+                "name": "Santan Kental",
+                "quantity": 50,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Tahu",
+                "quantity": 69,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 82,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 12,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 83,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Kue Lumpur Surabaya",
+        "description": "Excepturi eaque quod voluptatibus at vero animi rem exercitationem amet reprehenderit dolores tempore.",
+        "net_weight": 300,
+        "serving_size": "37 gram",
+        "ingredients": [
+            {
+                "name": "Tahu",
+                "quantity": 62,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Terasi",
+                "quantity": 28,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 14,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 13,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Ayam Goreng Kalasan",
+        "description": "Quos repellendus fugiat tempore officiis non sequi odit aliquid.",
+        "net_weight": 150,
+        "serving_size": "35 gram",
+        "ingredients": [
+            {
+                "name": "Gula Merah",
+                "quantity": 76,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 39,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Tahu",
+                "quantity": 68,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 51,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 64,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 27,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    },
+    {
+        "name": "Putu Ayu",
+        "description": "Officiis sit commodi dignissimos vero atque ad.",
+        "net_weight": 150,
+        "serving_size": "33 gram",
+        "ingredients": [
+            {
+                "name": "Daging Sapi",
+                "quantity": 83,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 33,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 92,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            }
+        ]
+    },
+    {
+        "name": "Pempek Palembang",
+        "description": "Dicta modi consectetur ipsam officia eius quibusdam expedita doloremque vitae magnam eligendi dolore.",
+        "net_weight": 250,
+        "serving_size": "42 gram",
+        "ingredients": [
+            {
+                "name": "Kecap Manis",
+                "quantity": 66,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 87,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 27,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Soto Betawi",
+        "description": "Dolorum molestias necessitatibus fugit repellat vitae animi tempora necessitatibus sapiente unde.",
+        "net_weight": 250,
+        "serving_size": "31 gram",
+        "ingredients": [
+            {
+                "name": "Tempe",
+                "quantity": 86,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 74,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 72,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 27,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Terasi",
+                "quantity": 37,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 43,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            }
+        ]
+    },
+    {
+        "name": "Soto Medan",
+        "description": "Earum odio et porro est quaerat at.",
+        "net_weight": 200,
+        "serving_size": "29 gram",
+        "ingredients": [
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 20,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 95,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 85,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 17,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 22,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Terasi",
+                "quantity": 94,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            }
+        ]
+    },
+    {
+        "name": "Pepes Ikan",
+        "description": "Eligendi vel ipsa asperiores ipsa expedita vero.",
+        "net_weight": 200,
+        "serving_size": "46 gram",
+        "ingredients": [
+            {
+                "name": "Tempe",
+                "quantity": 71,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Tahu",
+                "quantity": 38,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 25,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            }
+        ]
+    },
+    {
+        "name": "Tempe Mendoan",
+        "description": "Nisi odit voluptate occaecati ducimus reiciendis dolor repellat esse voluptates.",
+        "net_weight": 250,
+        "serving_size": "45 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 33,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 92,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Terasi",
+                "quantity": 20,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 79,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 27,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Ayam Betutu Bali",
+        "description": "Aliquam quam voluptas dicta distinctio aliquam corrupti voluptas voluptas magni quis.",
+        "net_weight": 200,
+        "serving_size": "40 gram",
+        "ingredients": [
+            {
+                "name": "Daging Ayam",
+                "quantity": 43,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 42,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Tahu",
+                "quantity": 14,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 81,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 45,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 49,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            }
+        ]
+    },
+    {
+        "name": "Rawon Surabaya",
+        "description": "Similique recusandae pariatur eligendi officiis ad vero quam quibusdam voluptas assumenda.",
+        "net_weight": 150,
+        "serving_size": "32 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 17,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 42,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Terasi",
+                "quantity": 53,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 74,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Tempe",
+                "quantity": 16,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 36,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            }
+        ]
+    },
+    {
+        "name": "Opor Ayam",
+        "description": "Rerum accusamus unde excepturi ipsum culpa.",
+        "net_weight": 150,
+        "serving_size": "42 gram",
+        "ingredients": [
+            {
+                "name": "Bawang Putih",
+                "quantity": 44,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 20,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Terasi",
+                "quantity": 23,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 95,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            }
+        ]
+    },
+    {
+        "name": "Sayur Lodeh",
+        "description": "Delectus voluptatibus adipisci eligendi eum quae voluptatem et nisi ea amet eaque.",
+        "net_weight": 200,
+        "serving_size": "41 gram",
+        "ingredients": [
+            {
+                "name": "Tahu",
+                "quantity": 38,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 71,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 37,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Rica-Rica Manado",
+        "description": "Saepe quia quo eligendi nihil beatae commodi ea rem pariatur.",
+        "net_weight": 150,
+        "serving_size": "34 gram",
+        "ingredients": [
+            {
+                "name": "Bawang Putih",
+                "quantity": 51,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 90,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 91,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            }
+        ]
+    },
+    {
+        "name": "Sate Lilit Bali",
+        "description": "Assumenda aliquam reiciendis nisi dolor eligendi.",
+        "net_weight": 150,
+        "serving_size": "25 gram",
+        "ingredients": [
+            {
+                "name": "Terasi",
+                "quantity": 11,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 87,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 82,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 28,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 44,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Nasi Goreng Jawa",
+        "description": "Tenetur quisquam fugit tempore ipsam officiis mollitia eum optio voluptatibus quis.",
+        "net_weight": 250,
+        "serving_size": "40 gram",
+        "ingredients": [
+            {
+                "name": "Beras Putih",
+                "quantity": 19,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 57,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 68,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 85,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    },
+    {
+        "name": "Lumpia Semarang",
+        "description": "Suscipit voluptates occaecati possimus pariatur delectus dicta ullam expedita.",
+        "net_weight": 150,
+        "serving_size": "48 gram",
+        "ingredients": [
+            {
+                "name": "Beras Putih",
+                "quantity": 92,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 68,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 97,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Terasi",
+                "quantity": 57,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Tahu",
+                "quantity": 33,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            }
+        ]
+    },
+    {
+        "name": "Nasi Uduk Betawi",
+        "description": "Nihil cum esse inventore natus pariatur dolor reiciendis quibusdam quod.",
+        "net_weight": 150,
+        "serving_size": "45 gram",
+        "ingredients": [
+            {
+                "name": "Bawang Putih",
+                "quantity": 85,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 26,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 99,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 61,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Tempe",
+                "quantity": 20,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Tahu",
+                "quantity": 58,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            }
+        ]
+    },
+    {
+        "name": "Rawon Setan",
+        "description": "Ad magni numquam placeat quibusdam ratione distinctio laborum minima excepturi quaerat minus.",
+        "net_weight": 150,
+        "serving_size": "39 gram",
+        "ingredients": [
+            {
+                "name": "Daging Ayam",
+                "quantity": 79,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Tempe",
+                "quantity": 56,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daun Jeruk",
+                "quantity": 56,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 86,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 63,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            }
+        ]
+    },
+    {
+        "name": "Gudeg Jogja",
+        "description": "Perspiciatis tempore alias fugit inventore temporibus dolor maiores.",
+        "net_weight": 250,
+        "serving_size": "41 gram",
+        "ingredients": [
+            {
+                "name": "Gula Merah",
+                "quantity": 49,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 85,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 28,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 65,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Tempe",
+                "quantity": 68,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 37,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Lemper Ayam",
+        "description": "Iure ducimus rerum omnis occaecati optio ab.",
+        "net_weight": 150,
+        "serving_size": "37 gram",
+        "ingredients": [
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 39,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 21,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 67,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 70,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 66,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            }
+        ]
+    },
+    {
+        "name": "Ayam Woku",
+        "description": "Id quidem dolorum sapiente a quo nulla.",
+        "net_weight": 150,
+        "serving_size": "25 gram",
+        "ingredients": [
+            {
+                "name": "Tempe",
+                "quantity": 51,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Terasi",
+                "quantity": 17,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 72,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 47,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 73,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Gado-Gado Jakarta",
+        "description": "Aspernatur deserunt distinctio rem unde magni rerum voluptate.",
+        "net_weight": 300,
+        "serving_size": "25 gram",
+        "ingredients": [
+            {
+                "name": "Lengkuas",
+                "quantity": 26,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Terasi",
+                "quantity": 80,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 89,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 97,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            }
+        ]
+    },
+    {
+        "name": "Ikan Asin Sambal Matah",
+        "description": "Animi id accusamus officiis consectetur aliquid est odio id velit mollitia incidunt suscipit.",
+        "net_weight": 150,
+        "serving_size": "37 gram",
+        "ingredients": [
+            {
+                "name": "Beras Putih",
+                "quantity": 17,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 12,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Terasi",
+                "quantity": 88,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Tahu",
+                "quantity": 62,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            }
+        ]
+    },
+    {
+        "name": "Sate Ayam Madura",
+        "description": "Vitae mollitia voluptas quaerat molestias illum nulla tempora modi possimus fuga.",
+        "net_weight": 150,
+        "serving_size": "28 gram",
+        "ingredients": [
+            {
+                "name": "Cabai Merah",
+                "quantity": 65,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 88,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 43,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            },
+            {
+                "name": "Tempe",
+                "quantity": 11,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 31,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Keripik Pisang Lampung",
+        "description": "Delectus illo voluptas accusantium laudantium veritatis amet nisi.",
+        "net_weight": 300,
+        "serving_size": "43 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 24,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Tempe",
+                "quantity": 29,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 62,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Tahu",
+                "quantity": 41,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 20,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Santan Kental",
+                "quantity": 100,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            }
+        ]
+    },
+    {
+        "name": "Es Cendol",
+        "description": "Labore earum odio ipsum laboriosam cupiditate ea aperiam magnam autem ad similique pariatur.",
+        "net_weight": 300,
+        "serving_size": "29 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 10,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Terasi",
+                "quantity": 15,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 82,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Tahu",
+                "quantity": 60,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 82,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Mendoan Banyumas",
+        "description": "Repellendus est libero quas dolor quia placeat iste illum similique optio.",
+        "net_weight": 300,
+        "serving_size": "48 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 59,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Tahu",
+                "quantity": 29,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Cabai Merah",
+                "quantity": 15,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 41,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 37,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Bawang Putih",
+                "quantity": 39,
+                "per_100g_energy_kcal": 149,
+                "per_100g_protein_g": 6.4,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 33,
+                "per_100g_sugar_g": 1,
+                "sodium_mg": 17
+            }
+        ]
+    },
+    {
+        "name": "Lontong Balap Surabaya",
+        "description": "Ipsa tempora adipisci nemo quam omnis vero fugit repudiandae tenetur ad.",
+        "net_weight": 250,
+        "serving_size": "45 gram",
+        "ingredients": [
+            {
+                "name": "Tempe",
+                "quantity": 43,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 29,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 26,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            },
+            {
+                "name": "Gula Merah",
+                "quantity": 81,
+                "per_100g_energy_kcal": 380,
+                "per_100g_protein_g": 0.4,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 95,
+                "per_100g_sugar_g": 95,
+                "sodium_mg": 20
+            },
+            {
+                "name": "Ikan Tongkol",
+                "quantity": 90,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 23,
+                "per_100g_fat_g": 5,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 70
+            }
+        ]
+    },
+    {
+        "name": "Soto Kudus",
+        "description": "Corrupti vitae excepturi amet sapiente culpa amet sit magnam fugit id modi dolores.",
+        "net_weight": 300,
+        "serving_size": "25 gram",
+        "ingredients": [
+            {
+                "name": "Daun Jeruk",
+                "quantity": 90,
+                "per_100g_energy_kcal": 37,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0.6,
+                "per_100g_carbs_g": 7.3,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Tempe",
+                "quantity": 60,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Terasi",
+                "quantity": 47,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 83,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            }
+        ]
+    },
+    {
+        "name": "Onde-Onde",
+        "description": "Itaque iste delectus maiores aut odit rerum dicta modi eum.",
+        "net_weight": 200,
+        "serving_size": "25 gram",
+        "ingredients": [
+            {
+                "name": "Terasi",
+                "quantity": 30,
+                "per_100g_energy_kcal": 90,
+                "per_100g_protein_g": 17,
+                "per_100g_fat_g": 2,
+                "per_100g_carbs_g": 3,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 1500
+            },
+            {
+                "name": "Kecap Manis",
+                "quantity": 68,
+                "per_100g_energy_kcal": 150,
+                "per_100g_protein_g": 2,
+                "per_100g_fat_g": 0,
+                "per_100g_carbs_g": 35,
+                "per_100g_sugar_g": 32,
+                "sodium_mg": 700
+            },
+            {
+                "name": "Tempe",
+                "quantity": 89,
+                "per_100g_energy_kcal": 193,
+                "per_100g_protein_g": 19,
+                "per_100g_fat_g": 11,
+                "per_100g_carbs_g": 9,
+                "per_100g_sugar_g": 0.7,
+                "sodium_mg": 9
+            },
+            {
+                "name": "Tahu",
+                "quantity": 20,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 69,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Daging Ayam",
+                "quantity": 38,
+                "per_100g_energy_kcal": 239,
+                "per_100g_protein_g": 27,
+                "per_100g_fat_g": 14,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 80
+            }
+        ]
+    },
+    {
+        "name": "Bakpia Pathok",
+        "description": "Provident officia cumque repellendus assumenda ad distinctio.",
+        "net_weight": 200,
+        "serving_size": "26 gram",
+        "ingredients": [
+            {
+                "name": "Cabai Merah",
+                "quantity": 55,
+                "per_100g_energy_kcal": 40,
+                "per_100g_protein_g": 1.9,
+                "per_100g_fat_g": 0.4,
+                "per_100g_carbs_g": 8.8,
+                "per_100g_sugar_g": 5.3,
+                "sodium_mg": 7
+            },
+            {
+                "name": "Daging Sapi",
+                "quantity": 50,
+                "per_100g_energy_kcal": 250,
+                "per_100g_protein_g": 26,
+                "per_100g_fat_g": 15,
+                "per_100g_carbs_g": 0,
+                "per_100g_sugar_g": 0,
+                "sodium_mg": 72
+            },
+            {
+                "name": "Tahu",
+                "quantity": 93,
+                "per_100g_energy_kcal": 76,
+                "per_100g_protein_g": 8,
+                "per_100g_fat_g": 4.8,
+                "per_100g_carbs_g": 1.9,
+                "per_100g_sugar_g": 0.5,
+                "sodium_mg": 7
+            }
+        ]
+    },
+    {
+        "name": "Sambal Teri Pete",
+        "description": "Perferendis voluptates officiis et consequuntur praesentium pariatur modi unde.",
+        "net_weight": 200,
+        "serving_size": "26 gram",
+        "ingredients": [
+            {
+                "name": "Santan Kental",
+                "quantity": 94,
+                "per_100g_energy_kcal": 230,
+                "per_100g_protein_g": 2.3,
+                "per_100g_fat_g": 24,
+                "per_100g_carbs_g": 6,
+                "per_100g_sugar_g": 3,
+                "sodium_mg": 13
+            },
+            {
+                "name": "Beras Putih",
+                "quantity": 99,
+                "per_100g_energy_kcal": 365,
+                "per_100g_protein_g": 7,
+                "per_100g_fat_g": 0.5,
+                "per_100g_carbs_g": 80,
+                "per_100g_sugar_g": 0.2,
+                "sodium_mg": 5
+            },
+            {
+                "name": "Lengkuas",
+                "quantity": 94,
+                "per_100g_energy_kcal": 71,
+                "per_100g_protein_g": 1,
+                "per_100g_fat_g": 0.8,
+                "per_100g_carbs_g": 15,
+                "per_100g_sugar_g": 2,
+                "sodium_mg": 10
+            }
+        ]
+    }
+]
